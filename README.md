@@ -1,2 +1,2 @@
 # TestUgaDooga
-My test assignment
+My test assignment - mobile marketing data analysis
